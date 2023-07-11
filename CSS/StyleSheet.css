@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;700&display=swap');
 
 body{
-  background-color: #d9d9d9;
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
 }
+
+
 
 iframe{height: 75vh;}
 h1{
